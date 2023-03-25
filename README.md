@@ -1,6 +1,8 @@
 # Crypto-beta-analysis
 Calculate the Beta value of different tokens on different exchanges, Binance spot, Binance with btc as base pair and Bybit perp.
 
+(I take no repsoncibility for any bugs or errors if you use this script)
+
 Download and install Visual Studio Code:
 
     Visit the Visual Studio Code website at https://code.visualstudio.com/.
